@@ -1,4 +1,4 @@
-# Claude Code Alerts
+# Claude Code macOS Alerts System
 
 Native macOS alerts for [Claude Code](https://docs.anthropic.com/en/docs/build-with-claude/claude-code/overview). Get notified instantly when Claude needs your attention.
 
